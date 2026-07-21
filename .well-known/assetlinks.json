@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.landarova.app",
+      "sha256_cert_fingerprints": [
+        "F9:2C:03:8A:45:20:F1:C8:9A:23:5A:FF:18:1A:53:64:0F:93:78:36:0E:EF:10:E9:EC:18:1D:F1:F2:E0:44:5F"
+      ]
+    }
+  }
+]
