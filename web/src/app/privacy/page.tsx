@@ -18,10 +18,8 @@ const SECTIONS: LegalSection[] = [
     body: (
       <>
         <P>
-          Landarover Technologies Ltd is a company registered in Nigeria,
-          with its registered address at:
+          Landarover Technologies Ltd is a company registered in Nigeria.
         </P>
-        <P>Address7, Factory Road, Aba, Abia, 450101, Nigeria</P>
         <P>
           We operate Landarover, a platform that helps people search for
           homes and land, buy building materials and home appliances through
@@ -365,8 +363,6 @@ const SECTIONS: LegalSection[] = [
       <>
         <P>
           <strong>Landarover Technologies Ltd</strong>
-          <br />
-          Address7, Factory Road, Aba, Abia, 450101, Nigeria
         </P>
         <P>
           Email: <EmailLink>support@mail.landarover.com</EmailLink>

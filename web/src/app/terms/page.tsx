@@ -470,8 +470,6 @@ const SECTIONS: LegalSection[] = [
       <>
         <P>
           <strong>Landarover Technologies Ltd</strong>
-          <br />
-          Address7, Factory Road, Aba, Abia, 450101, Nigeria
         </P>
         <P>
           Email: <EmailLink>support@mail.landarover.com</EmailLink>

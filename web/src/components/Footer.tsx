@@ -73,11 +73,7 @@ export default function Footer() {
 
       <div className="mx-auto mt-10 flex max-w-6xl flex-col gap-6 border-t border-border pt-6 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <address className="text-xs not-italic leading-relaxed text-muted">
-            Landarover Technologies Ltd. — Address7, Factory Road, Aba, Abia,
-            450101, Nigeria
-          </address>
-          <p className="mt-2 text-xs text-muted">
+          <p className="text-xs text-muted">
             &copy; {new Date().getFullYear()} Landarover Technologies Ltd. All
             rights reserved.
           </p>

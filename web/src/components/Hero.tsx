@@ -45,7 +45,7 @@ export default function Hero() {
               src="/images/mockup-homes-marketplace-3up.webp"
               alt="Landarover app screens showing home search, explore hub, and marketplace"
               width={1920}
-              height={1382}
+              height={1920}
               priority
               className="h-auto w-full object-contain"
             />
