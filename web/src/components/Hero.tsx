@@ -39,7 +39,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, ease: "easeOut", delay: 0.15 }}
-            className="relative mx-auto w-full max-w-none scale-150 sm:scale-125 lg:-mr-32 lg:scale-125"
+            className="relative mx-auto w-full max-w-none lg:-mr-32 lg:scale-125"
           >
             <Image
               src="/images/mockup-homes-marketplace-3up.webp"
